@@ -8,7 +8,7 @@ timezone: America/Los_Angeles
 # ↓ --------------------------
 
 title: Notes & Thoughts
-tagline: A place to share interesting ideas and thoughts I come across.
+tagline: A kind of digital scratch pad.
 url: "https://mohamedidris.dev"
 
 github:
@@ -16,7 +16,6 @@ github:
 
 social:
   name: Mohamed Idris
-  email: m4idris@gmail.com
   links:
     - https://github.com/mjidris
     - https://www.linkedin.com/in/mjidris
